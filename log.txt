@@ -1,0 +1,11 @@
+Fitter prepared. Device is cuda
+
+2020-07-18T12:32:26.213753
+LR: 3.125e-06
+[RESULT]: Train. Epoch: 77, summary_loss: 0.40621, final_score: 0.91503, time: 1527.95293
+[RESULT]: Val. Epoch: 77, summary_loss: 0.41167, final_score: 0.92258, time: 681.25096
+
+2020-07-18T13:09:15.505842
+LR: 3.125e-06
+[RESULT]: Train. Epoch: 78, summary_loss: 0.40432, final_score: 0.91596, time: 1544.60788
+[RESULT]: Val. Epoch: 78, summary_loss: 0.41568, final_score: 0.92215, time: 682.97653
