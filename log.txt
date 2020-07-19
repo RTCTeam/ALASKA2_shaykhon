@@ -20,3 +20,14 @@ LR: 0.0005
 LR: 0.0005
 [RESULT]: Train. Epoch: 102, summary_loss: 0.40768, final_score: 0.91455, time: 1795.39468
 [RESULT]: Val. Epoch: 102, summary_loss: 0.41863, final_score: 0.91621, time: 788.85880
+Fitter prepared. Device is cuda
+
+2020-07-19T21:18:24.296173
+LR: 0.00025
+[RESULT]: Train. Epoch: 104, summary_loss: 0.40392, final_score: 0.91615, time: 1812.90452
+[RESULT]: Val. Epoch: 104, summary_loss: 0.41298, final_score: 0.91658, time: 792.14421
+
+2020-07-19T22:01:49.590766
+LR: 0.00025
+[RESULT]: Train. Epoch: 105, summary_loss: 0.40084, final_score: 0.91733, time: 1805.25437
+[RESULT]: Val. Epoch: 105, summary_loss: 0.41672, final_score: 0.91611, time: 795.58077
